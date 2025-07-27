@@ -1,3 +1,3 @@
 ## Hình ảnh demo
 
-![demo](public/demo.jpg)
+![demo](public/demo.png)
