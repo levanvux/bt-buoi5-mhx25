@@ -1,3 +1,3 @@
 ## Hình ảnh demo
 
-![demo](public/demo.png)
+![Nghien Game Nang](public/demo.png)
